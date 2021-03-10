@@ -1,0 +1,402 @@
+Bundesland;RegionaleBezeichnung;Kreis;Fläche _in_km2;Bev_insgesamt;Bev_männlich;Bev_weiblich
+Schleswig-Holstein;Kreisfreie Stadt;SK Flensburg;    53,02;   90 164;   44 904;   45 260
+Schleswig-Holstein;Kreisfreie Stadt;SK Kiel;    118,65;   246 794;   120 198;   126 596
+Schleswig-Holstein;Kreisfreie Stadt;SK Lübeck;    214,19;   216 530;   104 032;   112 498
+Schleswig-Holstein;Kreisfreie Stadt;SK Neumünster;    71,66;   80 196;   39 723;   40 473
+Schleswig-Holstein;Kreis;LK Dithmarschen;    1428,17;   133 193;   65 718;   67 475
+Schleswig-Holstein;Kreis;LK Herzogtum Lauenburg;    1263,07;   198 019;   97 165;   100 854
+Schleswig-Holstein;Kreis;LK Nordfriesland;    2083,55;   165 951;   81 286;   84 665
+Schleswig-Holstein;Kreis;LK Ostholstein;    1393,02;   200 539;   96 689;   103 850
+Schleswig-Holstein;Kreis;LK Pinneberg;    664,25;   316 103;   155 123;   160 980
+Schleswig-Holstein;Kreis;LK Plön;    1083,56;   128 686;   62 487;   66 199
+Schleswig-Holstein;Kreis;LK Rendsburg-Eckernförde;    2189,79;   274 098;   134 970;   139 128
+Schleswig-Holstein;Kreis;LK Schleswig-Flensburg;    2071,28;   201 156;   99 557;   101 599
+Schleswig-Holstein;Kreis;LK Segeberg;    1344,47;   277 175;   137 054;   140 121
+Schleswig-Holstein;Kreis;LK Steinburg;    1055,70;   131 013;   64 747;   66 266
+Schleswig-Holstein;Kreis;LK Stormarn;    766,17;   244 156;   119 230;   124 926
+Hamburg;Kreisfreie Stadt;SK Hamburg;    755,09;  1 847 253;   903 974;   943 279
+Niedersachsen;Kreisfreie Stadt;SK Braunschweig;    192,70;   249 406;   123 630;   125 776
+Niedersachsen;Kreisfreie Stadt;SK Salzgitter;    224,49;   104 291;   51 831;   52 460
+Niedersachsen;Kreisfreie Stadt;SK Wolfsburg;    204,61;   124 371;   61 973;   62 398
+Niedersachsen;Landkreis;LK Gifhorn;    1567,55;   176 523;   88 295;   88 228
+Niedersachsen;Landkreis;LK Goslar;    966,72;   136 292;   67 599;   68 693
+Niedersachsen;Landkreis;LK Helmstedt;    676,15;   91 297;   45 273;   46 024
+Niedersachsen;Landkreis;LK Northeim;    1268,76;   132 285;   65 290;   66 995
+Niedersachsen;Landkreis;LK Peine;    536,50;   134 801;   66 753;   68 048
+Niedersachsen;Landkreis;LK Wolfenbüttel;    724,30;   119 622;   59 212;   60 410
+Niedersachsen;Landkreis;LK Göttingen;    1755,42;   326 041;   160 023;   166 018
+Niedersachsen;Landkreis;Region Hannover;    2297,13;  1 157 115;   566 626;   590 489
+Niedersachsen;Landkreis;LK Diepholz;    1991,01;   217 089;   107 876;   109 213
+Niedersachsen;Landkreis;LK Hameln-Pyrmont;    797,54;   148 549;   71 880;   76 669
+Niedersachsen;Landkreis;LK Hildesheim;    1208,34;   275 817;   134 547;   141 270
+Niedersachsen;Landkreis;LK Holzminden;    694,27;   70 458;   34 911;   35 547
+Niedersachsen;Landkreis;LK Nienburg (Weser);    1400,82;   121 390;   60 299;   61 091
+Niedersachsen;Landkreis;LK Schaumburg;    675,67;   157 820;   77 266;   80 554
+Niedersachsen;Landkreis;LK Celle;    1550,82;   179 011;   88 101;   90 910
+Niedersachsen;Landkreis;LK Cuxhaven;    2058,96;   198 038;   96 867;   101 171
+Niedersachsen;Landkreis;LK Harburg;    1248,45;   254 431;   125 373;   129 058
+Niedersachsen;Landkreis;LK Lüchow-Dannenberg;    1227,33;   48 412;   23 783;   24 629
+Niedersachsen;Landkreis;LK Lüneburg;    1327,80;   184 139;   89 803;   94 336
+Niedersachsen;Landkreis;LK Osterholz;    652,67;   113 928;   55 926;   58 002
+Niedersachsen;Landkreis;LK Rotenburg (Wümme);    2074,78;   163 782;   82 317;   81 465
+Niedersachsen;Landkreis;LK Heidekreis;    1881,45;   140 673;   70 251;   70 422
+Niedersachsen;Landkreis;LK Stade;    1267,38;   204 512;   101 831;   102 681
+Niedersachsen;Landkreis;LK Uelzen;    1462,59;   92 389;   45 137;   47 252
+Niedersachsen;Landkreis;LK Verden;    789,33;   137 133;   67 299;   69 834
+Niedersachsen;Kreisfreie Stadt;SK Delmenhorst;    62,45;   77 559;   38 313;   39 246
+Niedersachsen;Kreisfreie Stadt;SK Emden;    112,34;   49 913;   24 884;   25 029
+Niedersachsen;Kreisfreie Stadt;SK Oldenburg;    103,09;   169 077;   81 019;   88 058
+Niedersachsen;Kreisfreie Stadt;SK Osnabrück;    119,80;   165 251;   79 881;   85 370
+Niedersachsen;Kreisfreie Stadt;SK Wilhelmshaven;    107,07;   76 089;   37 444;   38 645
+Niedersachsen;Landkreis;LK Ammerland;    730,64;   124 859;   60 906;   63 953
+Niedersachsen;Landkreis;LK Aurich;    1287,35;   189 694;   93 316;   96 378
+Niedersachsen;Landkreis;LK Cloppenburg;    1420,34;   170 682;   86 436;   84 246
+Niedersachsen;Landkreis;LK Emsland;    2883,67;   326 954;   166 332;   160 622
+Niedersachsen;Landkreis;LK Friesland;    609,53;   98 704;   48 179;   50 525
+Niedersachsen;Landkreis;LK Grafschaft Bentheim;    981,79;   137 162;   68 658;   68 504
+Niedersachsen;Landkreis;LK Leer;    1085,72;   170 756;   85 211;   85 545
+Niedersachsen;Landkreis;LK Oldenburg;    1064,83;   130 890;   64 873;   66 017
+Niedersachsen;Landkreis;LK Osnabrück;    2121,81;   358 080;   177 737;   180 343
+Niedersachsen;Landkreis;LK Vechta;    814,20;   142 814;   72 095;   70 719
+Niedersachsen;Landkreis;LK Wesermarsch;    824,78;   88 583;   44 415;   44 168
+Niedersachsen;Landkreis;LK Wittmund;    656,86;   56 926;   27 900;   29 026
+Bremen;Kreisfreie Stadt;SK Bremen;    317,84;   567 559;   280 381;   287 178
+Bremen;Kreisfreie Stadt;SK Bremerhaven;    101,53;   113 643;   56 620;   57 023
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Düsseldorf;    217,41;   621 877;   300 507;   321 370
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Duisburg;    232,80;   498 686;   246 860;   251 826
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Essen;    210,34;   582 760;   282 869;   299 891
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Krefeld;    137,78;   227 417;   111 015;   116 402
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Mönchengladbach;    170,47;   261 034;   128 467;   132 567
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Mülheim a.d.Ruhr;    91,28;   170 632;   82 242;   88 390
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Oberhausen;    77,09;   210 764;   103 569;   107 195
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Remscheid;    74,52;   111 338;   54 888;   56 450
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Solingen;    89,54;   159 245;   77 306;   81 939
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Wuppertal;    168,39;   355 100;   174 133;   180 967
+Nordrhein-Westfalen;Kreis;LK Kleve;    1232,99;   312 465;   155 462;   157 003
+Nordrhein-Westfalen;Kreis;LK Mettmann;    407,22;   485 570;   234 628;   250 942
+Nordrhein-Westfalen;Kreis;LK Rhein-Kreis Neuss;    576,42;   451 730;   219 545;   232 185
+Nordrhein-Westfalen;Kreis;LK Viersen;    563,28;   298 863;   145 826;   153 037
+Nordrhein-Westfalen;Kreis;LK Wesel;    1042,79;   459 976;   223 956;   236 020
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Bonn;    141,06;   329 673;   157 533;   172 140
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Köln;    405,01;  1 087 863;   530 473;   557 390
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Leverkusen;    78,87;   163 729;   79 776;   83 953
+Nordrhein-Westfalen;Kreis;StadtRegion Aachen;    706,91;   557 026;   281 467;   275 559
+Nordrhein-Westfalen;Kreis;LK Düren;    941,49;   264 638;   131 365;   133 273
+Nordrhein-Westfalen;Kreis;LK Rhein-Erft-Kreis;    704,71;   470 615;   230 055;   240 560
+Nordrhein-Westfalen;Kreis;LK Euskirchen;    1248,73;   193 656;   95 537;   98 119
+Nordrhein-Westfalen;Kreis;LK Heinsberg;    627,91;   255 555;   126 506;   129 049
+Nordrhein-Westfalen;Kreis;LK Oberbergischer Kreis;    918,85;   272 057;   133 842;   138 215
+Nordrhein-Westfalen;Kreis;LK Rheinisch-Bergischer Kreis;    437,32;   283 271;   137 356;   145 915
+Nordrhein-Westfalen;Kreis;LK Rhein-Sieg-Kreis;    1153,21;   600 764;   294 400;   306 364
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Bottrop;    100,61;   117 565;   57 188;   60 377
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Gelsenkirchen;    104,94;   259 645;   129 032;   130 613
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Münster;    303,28;   315 293;   151 230;   164 063
+Nordrhein-Westfalen;Kreis;LK Borken;    1420,98;   371 339;   185 565;   185 774
+Nordrhein-Westfalen;Kreis;LK Coesfeld;    1112,04;   220 586;   108 836;   111 750
+Nordrhein-Westfalen;Kreis;LK Recklinghausen;    761,31;   614 137;   299 253;   314 884
+Nordrhein-Westfalen;Kreis;LK Steinfurt;    1795,75;   448 220;   222 878;   225 342
+Nordrhein-Westfalen;Kreis;LK Warendorf;    1319,42;   277 840;   137 208;   140 632
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Bielefeld;    258,83;   334 195;   161 093;   173 102
+Nordrhein-Westfalen;Kreis;LK Gütersloh;    969,21;   364 938;   182 215;   182 723
+Nordrhein-Westfalen;Kreis;LK Herford;    450,40;   250 578;   123 033;   127 545
+Nordrhein-Westfalen;Kreis;LK Höxter;    1201,42;   140 251;   69 864;   70 387
+Nordrhein-Westfalen;Kreis;LK Lippe;    1246,22;   347 514;   170 528;   176 986
+Nordrhein-Westfalen;Kreis;LK Minden-Lübbecke;    1152,41;   310 409;   153 244;   157 165
+Nordrhein-Westfalen;Kreis;LK Paderborn;    1246,80;   307 839;   154 132;   153 707
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Bochum;    145,66;   365 587;   178 131;   187 456
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Dortmund;    280,71;   588 250;   289 339;   298 911
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Hagen;    160,45;   188 686;   92 214;   96 472
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Hamm;    226,44;   179 916;   88 554;   91 362
+Nordrhein-Westfalen;Kreisfreie Stadt;SK Herne;    51,42;   156 449;   76 795;   79 654
+Nordrhein-Westfalen;Kreis;LK Ennepe-Ruhr-Kreis;    409,64;   324 106;   157 395;   166 711
+Nordrhein-Westfalen;Kreis;LK Hochsauerlandkreis;    1960,17;   259 777;   129 719;   130 058
+Nordrhein-Westfalen;Kreis;LK Märkischer Kreis;    1061,07;   410 222;   201 975;   208 247
+Nordrhein-Westfalen;Kreis;LK Olpe;    712,14;   133 955;   67 146;   66 809
+Nordrhein-Westfalen;Kreis;LK Siegen-Wittgenstein;    1132,89;   276 944;   137 591;   139 353
+Nordrhein-Westfalen;Kreis;LK Soest;    1328,63;   301 785;   149 882;   151 903
+Nordrhein-Westfalen;Kreis;LK Unna;    543,21;   394 891;   192 351;   202 540
+Hessen;Kreisfreie Stadt;SK Darmstadt;    122,07;   159 878;   81 439;   78 439
+Hessen;Kreisfreie Stadt;SK Frankfurt am Main;    248,31;   763 380;   376 802;   386 578
+Hessen;Kreisfreie Stadt;SK Offenbach;    44,88;   130 280;   64 603;   65 677
+Hessen;Kreisfreie Stadt;SK Wiesbaden;    203,87;   278 474;   133 104;   145 370
+Hessen;Landkreis;LK Bergstraße;    719,47;   270 340;   133 608;   136 732
+Hessen;Landkreis;LK Darmstadt-Dieburg;    658,64;   297 844;   148 046;   149 798
+Hessen;Landkreis;LK Groß-Gerau;    453,03;   275 726;   138 083;   137 643
+Hessen;Landkreis;LK Hochtaunuskreis;    481,84;   236 914;   115 143;   121 771
+Hessen;Landkreis;LK Main-Kinzig-Kreis;    1397,32;   420 552;   207 433;   213 119
+Hessen;Landkreis;LK Main-Taunus-Kreis;    222,53;   238 558;   116 820;   121 738
+Hessen;Landkreis;LK Odenwaldkreis;    623,97;   96 703;   47 855;   48 848
+Hessen;Landkreis;LK Offenbach;    356,24;   355 813;   175 379;   180 434
+Hessen;Landkreis;LK Rheingau-Taunus-Kreis;    811,41;   187 160;   92 025;   95 135
+Hessen;Landkreis;LK Wetteraukreis;    1100,66;   308 339;   152 469;   155 870
+Hessen;Landkreis;LK Gießen;    854,56;   270 688;   133 185;   137 503
+Hessen;Landkreis;LK Lahn-Dill-Kreis;    1066,30;   253 319;   124 903;   128 416
+Hessen;Landkreis;LK Limburg-Weilburg;    738,44;   171 912;   85 419;   86 493
+Hessen;Landkreis;LK Marburg-Biedenkopf;    1262,37;   247 084;   121 619;   125 465
+Hessen;Landkreis;LK Vogelsbergkreis;    1458,91;   105 643;   52 861;   52 782
+Hessen;Kreisfreie Stadt;SK Kassel;    106,80;   202 137;   99 319;   102 818
+Hessen;Landkreis;LK Fulda;    1380,41;   223 145;   110 782;   112 363
+Hessen;Landkreis;LK Hersfeld-Rotenburg;    1097,75;   120 719;   60 512;   60 207
+Hessen;Landkreis;LK Kassel;    1293,31;   236 764;   116 153;   120 611
+Hessen;Landkreis;LK Schwalm-Eder-Kreis;    1539,01;   179 673;   89 941;   89 732
+Hessen;Landkreis;LK Waldeck-Frankenberg;    1848,70;   156 406;   77 901;   78 505
+Hessen;Landkreis;LK Werra-Meißner-Kreis;    1024,83;   100 629;   49 856;   50 773
+Rheinland-Pfalz;Kreisfreie Stadt;SK Koblenz;    105,25;   114 052;   55 754;   58 298
+Rheinland-Pfalz;Landkreis;LK Ahrweiler;    787,02;   130 086;   64 033;   66 053
+Rheinland-Pfalz;Landkreis;LK Altenkirchen;    642,38;   128 805;   63 882;   64 923
+Rheinland-Pfalz;Landkreis;LK Bad Kreuznach;    863,89;   158 345;   77 387;   80 958
+Rheinland-Pfalz;Landkreis;LK Birkenfeld;    776,83;   80 951;   40 111;   40 840
+Rheinland-Pfalz;Landkreis;LK Cochem-Zell;    692,43;   61 375;   30 760;   30 615
+Rheinland-Pfalz;Landkreis;LK Mayen-Koblenz;    817,73;   214 434;   105 889;   108 545
+Rheinland-Pfalz;Landkreis;LK Neuwied;    627,05;   182 811;   90 104;   92 707
+Rheinland-Pfalz;Landkreis;LK Rhein-Hunsrück-Kreis;    991,06;   103 163;   51 379;   51 784
+Rheinland-Pfalz;Landkreis;LK Rhein-Lahn-Kreis;    782,24;   122 297;   60 517;   61 780
+Rheinland-Pfalz;Landkreis;LK Westerwaldkreis;    989,04;   201 904;   100 239;   101 665
+Rheinland-Pfalz;Kreisfreie Stadt;SK Trier;    117,06;   111 528;   55 053;   56 475
+Rheinland-Pfalz;Landkreis;LK Bernkastel-Wittlich;    1167,92;   112 483;   56 323;   56 160
+Rheinland-Pfalz;Landkreis;LK Bitburg-Prüm;    1626,95;   99 058;   49 869;   49 189
+Rheinland-Pfalz;Landkreis;LK Vulkaneifel;    911,64;   60 646;   30 441;   30 205
+Rheinland-Pfalz;Landkreis;LK Trier-Saarburg;    1102,26;   149 398;   73 878;   75 520
+Rheinland-Pfalz;Kreisfreie Stadt;SK Frankenthal;    43,88;   48 762;   23 703;   25 059
+Rheinland-Pfalz;Kreisfreie Stadt;SK Kaiserslautern;    139,70;   100 030;   50 503;   49 527
+Rheinland-Pfalz;Kreisfreie Stadt;SK Landau i.d.Pfalz;    82,94;   46 881;   22 274;   24 607
+Rheinland-Pfalz;Kreisfreie Stadt;SK Ludwigshafen;    77,43;   172 253;   86 486;   85 767
+Rheinland-Pfalz;Kreisfreie Stadt;SK Mainz;    97,73;   218 578;   106 387;   112 191
+Rheinland-Pfalz;Kreisfreie Stadt;SK Neustadt a.d.Weinstraße;    117,09;   53 264;   26 025;   27 239
+Rheinland-Pfalz;Kreisfreie Stadt;SK Pirmasens;    61,35;   40 231;   19 685;   20 546
+Rheinland-Pfalz;Kreisfreie Stadt;SK Speyer;    42,71;   50 561;   24 455;   26 106
+Rheinland-Pfalz;Kreisfreie Stadt;SK Worms;    108,73;   83 542;   41 238;   42 304
+Rheinland-Pfalz;Kreisfreie Stadt;SK Zweibrücken;    70,64;   34 193;   16 943;   17 250
+Rheinland-Pfalz;Landkreis;LK Alzey-Worms;    588,07;   129 687;   64 482;   65 205
+Rheinland-Pfalz;Landkreis;LK Bad Dürkheim;    594,64;   132 671;   64 871;   67 800
+Rheinland-Pfalz;Landkreis;LK Donnersbergkreis;    645,41;   75 325;   37 331;   37 994
+Rheinland-Pfalz;Landkreis;LK Germersheim;    463,32;   129 013;   64 277;   64 736
+Rheinland-Pfalz;Landkreis;LK Kaiserslautern;    640,00;   105 979;   52 078;   53 901
+Rheinland-Pfalz;Landkreis;LK Kusel;    573,61;   70 219;   34 874;   35 345
+Rheinland-Pfalz;Landkreis;LK Südliche Weinstraße;    639,93;   110 521;   54 419;   56 102
+Rheinland-Pfalz;Landkreis;LK Rhein-Pfalz-Kreis;    304,99;   154 609;   76 324;   78 285
+Rheinland-Pfalz;Landkreis;LK Mainz-Bingen;    605,36;   211 417;   104 277;   107 140
+Rheinland-Pfalz;Landkreis;LK Südwestpfalz;    953,53;   94 831;   46 753;   48 078
+Baden-Württemberg;Stadtkreis;SK Stuttgart;    207,33;   635 911;   317 794;   318 117
+Baden-Württemberg;Landkreis;LK Böblingen;    617,76;   392 807;   195 497;   197 310
+Baden-Württemberg;Landkreis;LK Esslingen;    641,28;   535 024;   267 334;   267 690
+Baden-Württemberg;Landkreis;LK Göppingen;    642,34;   258 145;   128 649;   129 496
+Baden-Württemberg;Landkreis;LK Ludwigsburg;    686,77;   545 423;   270 799;   274 624
+Baden-Württemberg;Landkreis;LK Rems-Murr-Kreis;    858,08;   427 248;   211 395;   215 853
+Baden-Württemberg;Stadtkreis;SK Heilbronn;    99,90;   126 592;   63 802;   62 790
+Baden-Württemberg;Landkreis;LK Heilbronn;    1099,91;   344 456;   172 994;   171 462
+Baden-Württemberg;Landkreis;LK Hohenlohekreis;    776,76;   112 655;   56 872;   55 783
+Baden-Württemberg;Landkreis;LK Schwäbisch Hall;    1484,07;   196 761;   98 720;   98 041
+Baden-Württemberg;Landkreis;LK Main-Tauber-Kreis;    1304,12;   132 399;   65 992;   66 407
+Baden-Württemberg;Landkreis;LK Heidenheim;    627,13;   132 777;   66 089;   66 688
+Baden-Württemberg;Landkreis;LK Ostalbkreis;    1511,39;   314 025;   156 464;   157 561
+Baden-Württemberg;Stadtkreis;SK Baden-Baden;    140,19;   55 185;   26 522;   28 663
+Baden-Württemberg;Stadtkreis;SK Karlsruhe;    173,42;   312 060;   159 887;   152 173
+Baden-Württemberg;Landkreis;LK Karlsruhe;    1084,98;   445 101;   221 685;   223 416
+Baden-Württemberg;Landkreis;LK Rastatt;    738,43;   231 420;   114 941;   116 479
+Baden-Württemberg;Stadtkreis;SK Heidelberg;    108,83;   161 485;   77 638;   83 847
+Baden-Württemberg;Stadtkreis;SK Mannheim;    144,97;   310 658;   155 007;   155 651
+Baden-Württemberg;Landkreis;LK Neckar-Odenwald-Kreis;    1125,95;   143 633;   72 186;   71 447
+Baden-Württemberg;Landkreis;LK Rhein-Neckar-Kreis;    1061,55;   548 355;   269 715;   278 640
+Baden-Württemberg;Stadtkreis;SK Pforzheim;    97,99;   125 957;   61 998;   63 959
+Baden-Württemberg;Landkreis;LK Calw;    797,29;   159 201;   79 850;   79 351
+Baden-Württemberg;Landkreis;LK Enzkreis;    573,60;   199 556;   99 072;   100 484
+Baden-Württemberg;Landkreis;LK Freudenstadt;    870,40;   118 243;   59 082;   59 161
+Baden-Württemberg;Stadtkreis;SK Freiburg i.Breisgau;    153,04;   231 195;   110 333;   120 862
+Baden-Württemberg;Landkreis;LK Breisgau-Hochschwarzwald;    1378,32;   263 601;   129 954;   133 647
+Baden-Württemberg;Landkreis;LK Emmendingen;    679,80;   166 408;   82 244;   84 164
+Baden-Württemberg;Landkreis;LK Ortenaukreis;    1860,29;   430 953;   214 820;   216 133
+Baden-Württemberg;Landkreis;LK Rottweil;    769,42;   139 878;   70 004;   69 874
+Baden-Württemberg;Landkreis;LK Schwarzwald-Baar-Kreis;    1025,34;   212 506;   105 394;   107 112
+Baden-Württemberg;Landkreis;LK Tuttlingen;    734,38;   140 766;   70 847;   69 919
+Baden-Württemberg;Landkreis;LK Konstanz;    817,98;   286 305;   139 337;   146 968
+Baden-Württemberg;Landkreis;LK Lörrach;    806,67;   228 736;   112 047;   116 689
+Baden-Württemberg;Landkreis;LK Waldshut;    1131,14;   171 003;   84 828;   86 175
+Baden-Württemberg;Landkreis;LK Reutlingen;    1092,48;   287 034;   142 281;   144 753
+Baden-Württemberg;Landkreis;LK Tübingen;    519,11;   228 678;   111 504;   117 174
+Baden-Württemberg;Landkreis;LK Zollernalbkreis;    917,58;   189 363;   93 921;   95 442
+Baden-Württemberg;Stadtkreis;SK Ulm;    118,68;   126 790;   62 913;   63 877
+Baden-Württemberg;Landkreis;LK Alb-Donau-Kreis;    1358,54;   197 076;   99 480;   97 596
+Baden-Württemberg;Landkreis;LK Biberach;    1409,52;   201 282;   101 390;   99 892
+Baden-Württemberg;Landkreis;LK Bodenseekreis;    664,77;   217 470;   107 252;   110 218
+Baden-Württemberg;Landkreis;LK Ravensburg;    1632,08;   285 424;   142 334;   143 090
+Baden-Württemberg;Landkreis;LK Sigmaringen;    1204,23;   130 849;   65 573;   65 276
+Bayern;Kreisfreie Stadt;SK Ingolstadt;    133,35;   137 392;   69 471;   67 921
+Bayern;Kreisfreie Stadt;SK München;    310,70;  1 484 226;   723 663;   760 563
+Bayern;Kreisfreie Stadt;SK Rosenheim;    37,22;   63 551;   31 357;   32 194
+Bayern;Landkreis;LK Altötting;    569,28;   111 516;   55 205;   56 311
+Bayern;Landkreis;LK Berchtesgadener Land;    839,82;   105 929;   52 153;   53 776
+Bayern;Landkreis;LK Bad Tölz-Wolfratshausen;    1110,67;   127 917;   63 164;   64 753
+Bayern;Landkreis;LK Dachau;    579,16;   154 899;   77 524;   77 375
+Bayern;Landkreis;LK Ebersberg;    549,39;   143 649;   71 806;   71 843
+Bayern;Landkreis;LK Eichstätt;    1213,85;   132 881;   67 518;   65 363
+Bayern;Landkreis;LK Erding;    870,74;   138 182;   69 629;   68 553
+Bayern;Landkreis;LK Freising;    799,85;   180 007;   92 107;   87 900
+Bayern;Landkreis;LK Fürstenfeldbruck;    434,80;   219 311;   107 802;   111 509
+Bayern;Landkreis;LK Garmisch-Partenkirchen;    1012,17;   88 424;   42 916;   45 508
+Bayern;Landkreis;LK Landsberg a.Lech;    804,36;   120 302;   60 066;   60 236
+Bayern;Landkreis;LK Miesbach;    866,21;   100 010;   48 999;   51 011
+Bayern;Landkreis;LK Mühldorf a.Inn;    805,33;   115 872;   58 718;   57 154
+Bayern;Landkreis;LK München;    664,25;   350 473;   174 436;   176 037
+Bayern;Landkreis;LK Neuburg-Schrobenhausen;    739,71;   97 303;   48 931;   48 372
+Bayern;Landkreis;LK Pfaffenhofen a.d.Ilm;    761,05;   128 227;   65 167;   63 060
+Bayern;Landkreis;LK Rosenheim;    1439,44;   261 330;   129 399;   131 931
+Bayern;Landkreis;LK Starnberg;    487,71;   136 667;   66 265;   70 402
+Bayern;Landkreis;LK Traunstein;    1533,76;   177 319;   87 614;   89 705
+Bayern;Landkreis;LK Weilheim-Schongau;    966,28;   135 478;   67 242;   68 236
+Bayern;Kreisfreie Stadt;SK Landshut;    65,83;   73 411;   35 952;   37 459
+Bayern;Kreisfreie Stadt;SK Passau;    69,56;   52 803;   25 613;   27 190
+Bayern;Kreisfreie Stadt;SK Straubing;    67,59;   47 791;   24 088;   23 703
+Bayern;Landkreis;LK Deggendorf;    861,17;   119 478;   59 650;   59 828
+Bayern;Landkreis;LK Freyung-Grafenau;    983,85;   78 362;   39 063;   39 299
+Bayern;Landkreis;LK Kelheim;    1065,13;   123 058;   62 512;   60 546
+Bayern;Landkreis;LK Landshut;    1347,55;   159 895;   80 913;   78 982
+Bayern;Landkreis;LK Passau;    1530,09;   192 656;   95 727;   96 929
+Bayern;Landkreis;LK Regen;    974,78;   77 410;   38 619;   38 791
+Bayern;Landkreis;LK Rottal-Inn;    1281,20;   121 502;   60 920;   60 582
+Bayern;Landkreis;LK Straubing-Bogen;    1201,61;   101 120;   50 763;   50 357
+Bayern;Landkreis;LK Dingolfing-Landau;    877,58;   96 683;   49 580;   47 103
+Bayern;Kreisfreie Stadt;SK Amberg;    50,13;   42 207;   20 816;   21 391
+Bayern;Kreisfreie Stadt;SK Regensburg;    80,86;   153 094;   74 316;   78 778
+Bayern;Kreisfreie Stadt;SK Weiden i.d.OPf.;    70,57;   42 743;   20 652;   22 091
+Bayern;Landkreis;LK Amberg-Sulzbach;    1255,86;   103 049;   51 634;   51 415
+Bayern;Landkreis;LK Cham;    1526,82;   127 998;   64 289;   63 709
+Bayern;Landkreis;LK Neumarkt i.d.OPf.;    1343,96;   134 573;   68 058;   66 515
+Bayern;Landkreis;LK Neustadt a.d.Waldnaab;    1427,69;   94 450;   47 061;   47 389
+Bayern;Landkreis;LK Regensburg;    1391,65;   194 070;   97 185;   96 885
+Bayern;Landkreis;LK Schwandorf;    1458,34;   147 872;   74 315;   73 557
+Bayern;Landkreis;LK Tirschenreuth;    1084,25;   72 046;   35 891;   36 155
+Bayern;Kreisfreie Stadt;SK Bamberg;    54,62;   77 373;   37 296;   40 077
+Bayern;Kreisfreie Stadt;SK Bayreuth;    66,89;   74 783;   36 539;   38 244
+Bayern;Kreisfreie Stadt;SK Coburg;    48,29;   41 072;   20 042;   21 030
+Bayern;Kreisfreie Stadt;SK Hof;    58,02;   45 825;   22 095;   23 730
+Bayern;Landkreis;LK Bamberg;    1167,79;   147 163;   73 740;   73 423
+Bayern;Landkreis;LK Bayreuth;    1273,62;   103 664;   51 361;   52 303
+Bayern;Landkreis;LK Coburg;    590,42;   86 747;   42 836;   43 911
+Bayern;Landkreis;LK Forchheim;    642,82;   116 203;   57 771;   58 432
+Bayern;Landkreis;LK Hof;    892,52;   94 801;   46 459;   48 342
+Bayern;Landkreis;LK Kronach;    651,49;   66 743;   32 987;   33 756
+Bayern;Landkreis;LK Kulmbach;    658,33;   71 566;   35 244;   36 322
+Bayern;Landkreis;LK Lichtenfels;    519,94;   66 776;   32 965;   33 811
+Bayern;Landkreis;LK Wunsiedel i.Fichtelgebirge;    606,37;   72 655;   35 446;   37 209
+Bayern;Kreisfreie Stadt;SK Ansbach;    99,91;   41 798;   20 022;   21 776
+Bayern;Kreisfreie Stadt;SK Erlangen;    76,96;   112 528;   56 013;   56 515
+Bayern;Kreisfreie Stadt;SK Fürth;    63,35;   128 497;   63 051;   65 446
+Bayern;Kreisfreie Stadt;SK Nürnberg;    186,45;   518 370;   253 135;   265 235
+Bayern;Kreisfreie Stadt;SK Schwabach;    40,80;   40 981;   20 068;   20 913
+Bayern;Landkreis;LK Ansbach;    1971,33;   184 591;   92 836;   91 755
+Bayern;Landkreis;LK Erlangen-Höchstadt;    564,55;   137 262;   68 245;   69 017
+Bayern;Landkreis;LK Fürth;    307,44;   117 853;   57 200;   60 653
+Bayern;Landkreis;LK Nürnberger Land;    799,52;   170 792;   84 197;   86 595
+Bayern;Landkreis;LK Neustadt a.d.Aisch-Bad Windsheim;    1267,44;   101 014;   50 621;   50 393
+Bayern;Landkreis;LK Roth;    895,16;   126 749;   62 952;   63 797
+Bayern;Landkreis;LK Weißenburg-Gunzenhausen;    970,78;   94 734;   47 305;   47 429
+Bayern;Kreisfreie Stadt;SK Aschaffenburg;    62,45;   71 002;   34 641;   36 361
+Bayern;Kreisfreie Stadt;SK Schweinfurt;    35,70;   53 426;   26 169;   27 257
+Bayern;Kreisfreie Stadt;SK Würzburg;    87,60;   127 934;   61 131;   66 803
+Bayern;Landkreis;LK Aschaffenburg;    698,90;   174 200;   86 457;   87 743
+Bayern;Landkreis;LK Bad Kissingen;    1136,90;   103 235;   50 860;   52 375
+Bayern;Landkreis;LK Rhön-Grabfeld;    1021,68;   79 635;   39 646;   39 989
+Bayern;Landkreis;LK Haßberge;    956,19;   84 384;   42 309;   42 075
+Bayern;Landkreis;LK Kitzingen;    684,14;   91 155;   45 862;   45 293
+Bayern;Landkreis;LK Miltenberg;    715,58;   128 743;   64 105;   64 638
+Bayern;Landkreis;LK Main-Spessart;    1321,20;   126 158;   62 951;   63 207
+Bayern;Landkreis;LK Schweinfurt;    841,39;   115 445;   58 014;   57 431
+Bayern;Landkreis;LK Würzburg;    968,35;   162 302;   80 732;   81 570
+Bayern;Kreisfreie Stadt;SK Augsburg;    146,86;   296 582;   146 222;   150 360
+Bayern;Kreisfreie Stadt;SK Kaufbeuren;    40,02;   44 398;   21 872;   22 526
+Bayern;Kreisfreie Stadt;SK Kempten;    63,28;   69 151;   34 219;   34 932
+Bayern;Kreisfreie Stadt;SK Memmingen;    70,11;   44 100;   21 892;   22 208
+Bayern;Landkreis;LK Aichach-Friedberg;    780,23;   134 655;   67 161;   67 494
+Bayern;Landkreis;LK Augsburg;    1070,63;   253 468;   125 761;   127 707
+Bayern;Landkreis;LK Dillingen a.d.Donau;    792,23;   96 562;   48 441;   48 121
+Bayern;Landkreis;LK Günzburg;    762,40;   127 027;   64 288;   62 739
+Bayern;Landkreis;LK Neu-Ulm;    515,84;   175 204;   86 839;   88 365
+Bayern;Landkreis;LK Lindau;    323,39;   81 981;   40 438;   41 543
+Bayern;Landkreis;LK Ostallgäu;    1394,43;   141 182;   70 507;   70 675
+Bayern;Landkreis;LK Unterallgäu;    1229,57;   145 341;   73 229;   72 112
+Bayern;Landkreis;LK Donau-Ries;    1274,58;   133 783;   67 860;   65 923
+Bayern;Landkreis;LK Oberallgäu;    1527,96;   156 008;   76 890;   79 118
+Saarland;Regionalverband;LK Stadtverband Saarbrücken;    410,95;   328 714;   161 617;   167 097
+Saarland;Landkreis;LK Merzig-Wadern;    556,66;   103 243;   51 032;   52 211
+Saarland;Landkreis;LK Neunkirchen;    249,80;   131 408;   64 540;   66 868
+Saarland;Landkreis;LK Saarlouis;    459,35;   194 319;   95 138;   99 181
+Saarland;Landkreis;LK Saar-Pfalz-Kreis;    418,28;   142 196;   69 120;   73 076
+Saarland;Landkreis;LK Sankt Wendel;    476,07;   87 007;   42 972;   44 035
+Berlin;Kreisfreie Stadt;SK Berlin;    891,12;  3 669 491;  1 804 273;  1 865 218
+Brandenburg;Kreisfreie Stadt;SK Brandenburg a.d.Havel;    229,72;   72 184;   35 577;   36 607
+Brandenburg;Kreisfreie Stadt;SK Cottbus;    165,62;   99 678;   48 816;   50 862
+Brandenburg;Kreisfreie Stadt;SK Frankfurt (Oder);    147,85;   57 751;   28 099;   29 652
+Brandenburg;Kreisfreie Stadt;SK Potsdam;    188,24;   180 334;   87 158;   93 176
+Brandenburg;Landkreis;LK Barnim;    1479,58;   185 244;   91 812;   93 432
+Brandenburg;Landkreis;LK Dahme-Spreewald;    2274,50;   170 791;   84 806;   85 985
+Brandenburg;Landkreis;LK Elbe-Elster;    1899,19;   101 827;   50 472;   51 355
+Brandenburg;Landkreis;LK Havelland;    1727,31;   162 996;   80 547;   82 449
+Brandenburg;Landkreis;LK Märkisch-Oderland;    2158,65;   195 751;   97 086;   98 665
+Brandenburg;Landkreis;LK Oberhavel;    1808,18;   212 914;   104 949;   107 965
+Brandenburg;Landkreis;LK Oberspreewald-Lausitz;    1223,48;   109 371;   53 724;   55 647
+Brandenburg;Landkreis;LK Oder-Spree;    2256,75;   178 803;   87 616;   91 187
+Brandenburg;Landkreis;LK Ostprignitz-Ruppin;    2526,56;   98 861;   49 144;   49 717
+Brandenburg;Landkreis;LK Potsdam-Mittelmark;    2592,02;   216 566;   107 234;   109 332
+Brandenburg;Landkreis;LK Prignitz;    2138,54;   76 158;   37 801;   38 357
+Brandenburg;Landkreis;LK Spree-Neiße;    1656,98;   113 720;   55 879;   57 841
+Brandenburg;Landkreis;LK Teltow-Fläming;    2104,21;   169 997;   84 796;   85 201
+Brandenburg;Landkreis;LK Uckermark;    3077,03;   118 947;   58 415;   60 532
+Mecklenburg-Vorpommern;Kreisfreie Stadt;SK Rostock;    181,36;   209 191;   103 101;   106 090
+Mecklenburg-Vorpommern;Kreisfreie Stadt;SK Schwerin;    130,52;   95 653;   45 957;   49 696
+Mecklenburg-Vorpommern;Landkreis;LK Mecklenburgische Seenplatte;  5495,60;  258 074;  126 560;  131 514
+Mecklenburg-Vorpommern;Landkreis;LK Landkreis Rostock;    3431,29;   215 794;   107 360;   108 434
+Mecklenburg-Vorpommern;Landkreis;LK Vorpommern-Rügen;    3216,02;   224 702;   110 438;   114 264
+Mecklenburg-Vorpommern;Landkreis;LK Nordwestmecklenburg;    2127,08;   157 322;   78 294;   79 028
+Mecklenburg-Vorpommern;Landkreis;LK Vorpommern-Greifswald;    3945,56;   235 623;   115 274;   120 349
+Mecklenburg-Vorpommern;Landkreis;LK Ludwigslust-Parchim;    4766,78;   211 779;   105 628;   106 151
+Sachsen;Kreisfreie Stadt;SK Chemnitz;    221,05;   246 334;   121 810;   124 524
+Sachsen;Landkreis;LK Erzgebirgskreis;    1827,91;   334 948;   163 885;   171 063
+Sachsen;Landkreis;LK Mittelsachsen;    2116,85;   304 099;   151 334;   152 765
+Sachsen;Landkreis;LK Vogtlandkreis;    1412,42;   225 997;   110 269;   115 728
+Sachsen;Landkreis;LK Zwickau;    949,78;   315 002;   153 663;   161 339
+Sachsen;Kreisfreie Stadt;SK Dresden;    328,48;   556 780;   277 612;   279 168
+Sachsen;Landkreis;LK Bautzen;    2395,60;   299 758;   148 084;   151 674
+Sachsen;Landkreis;LK Görlitz;    2111,41;   252 725;   123 768;   128 957
+Sachsen;Landkreis;LK Meißen;    1454,59;   241 717;   118 997;   122 720
+Sachsen;Landkreis;LK Sächsische Schweiz-Osterzgebirge;    1654,19;   245 586;   121 254;   124 332
+Sachsen;Kreisfreie Stadt;SK Leipzig;    297,80;   593 145;   291 450;   301 695
+Sachsen;Landkreis;LK Leipzig;    1651,28;   258 139;   126 466;   131 673
+Sachsen;Landkreis;LK Nordsachsen;    2028,56;   197 741;   98 130;   99 611
+Sachsen-Anhalt;Kreisfreie Stadt;SK Dessau-Roßlau;    244,71;   80 103;   38 894;   41 209
+Sachsen-Anhalt;Kreisfreie Stadt;SK Halle;    135,03;   238 762;   115 552;   123 210
+Sachsen-Anhalt;Kreisfreie Stadt;SK Magdeburg;    201,01;   237 565;   117 391;   120 174
+Sachsen-Anhalt;Landkreis;LK Altmarkkreis Salzwedel;    2293,74;   83 173;   41 428;   41 745
+Sachsen-Anhalt;Landkreis;LK Anhalt-Bitterfeld;    1453,84;   158 486;   77 624;   80 862
+Sachsen-Anhalt;Landkreis;LK Börde;    2366,99;   170 923;   85 224;   85 699
+Sachsen-Anhalt;Landkreis;LK Burgenlandkreis;    1413,95;   178 846;   88 658;   90 188
+Sachsen-Anhalt;Landkreis;LK Harz;    2104,75;   213 310;   104 712;   108 598
+Sachsen-Anhalt;Landkreis;LK Jerichower Land;    1577,08;   89 589;   44 600;   44 989
+Sachsen-Anhalt;Landkreis;LK Mansfeld-Südharz;    1449,01;   134 942;   66 285;   68 657
+Sachsen-Anhalt;Landkreis;LK Saalekreis;    1434,01;   183 815;   90 793;   93 022
+Sachsen-Anhalt;Landkreis;LK Salzlandkreis;    1427,50;   189 125;   92 363;   96 762
+Sachsen-Anhalt;Landkreis;LK Stendal;    2424,11;   111 190;   54 869;   56 321
+Sachsen-Anhalt;Landkreis;LK Wittenberg;    1930,78;   124 953;   61 469;   63 484
+Thüringen;Kreisfreie Stadt;SK Erfurt;    269,91;   213 981;   104 044;   109 937
+Thüringen;Kreisfreie Stadt;SK Gera;    152,18;   93 125;   44 945;   48 180
+Thüringen;Kreisfreie Stadt;SK Jena;    114,77;   111 343;   55 628;   55 715
+Thüringen;Kreisfreie Stadt;SK Suhl;    141,62;   36 789;   18 009;   18 780
+Thüringen;Kreisfreie Stadt;SK Weimar;    84,48;   65 228;   31 549;   33 679
+Thüringen;Kreisfreie Stadt;SK Eisenach;    104,17;   42 250;   20 833;   21 417
+Thüringen;Landkreis;LK Eichsfeld;    943,07;   100 006;   50 219;   49 787
+Thüringen;Landkreis;LK Nordhausen;    713,90;   83 416;   41 394;   42 022
+Thüringen;Landkreis;LK Wartburgkreis;    1266,96;   118 974;   59 573;   59 401
+Thüringen;Landkreis;LK Unstrut-Hainich-Kreis;    979,68;   102 232;   50 775;   51 457
+Thüringen;Landkreis;LK Kyffhäuserkreis;    1037,91;   74 212;   36 865;   37 347
+Thüringen;Landkreis;LK Schmalkalden-Meiningen;    1251,21;   124 916;   62 446;   62 470
+Thüringen;Landkreis;LK Gotha;    936,08;   134 908;   67 158;   67 750
+Thüringen;Landkreis;LK Sömmerda;    806,85;   69 427;   34 660;   34 767
+Thüringen;Landkreis;LK Hildburghausen;    938,42;   63 197;   31 624;   31 573
+Thüringen;Landkreis;LK Ilm-Kreis;    805,12;   106 249;   53 446;   52 803
+Thüringen;Landkreis;LK Weimarer Land;    804,48;   82 156;   40 724;   41 432
+Thüringen;Landkreis;LK Sonneberg;    460,85;   57 717;   28 391;   29 326
+Thüringen;Landkreis;LK Saalfeld-Rudolstadt;    1008,79;   103 199;   50 838;   52 361
+Thüringen;Landkreis;LK Saale-Holzland-Kreis;    815,24;   82 950;   41 262;   41 688
+Thüringen;Landkreis;LK Saale-Orla-Kreis;    1151,30;   80 312;   39 890;   40 422
+Thüringen;Landkreis;LK Greiz;    845,98;   97 398;   47 921;   49 477
+Thüringen;Landkreis;LK Altenburger Land;    569,39;   89 393;   43 802;   45 591

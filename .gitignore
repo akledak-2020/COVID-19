@@ -1,0 +1,6 @@
+**/.DS_Store
+**/__pycache__
+**/.idea
+**/venv
+RKI_COVID19.csv
+config_covid-19.json

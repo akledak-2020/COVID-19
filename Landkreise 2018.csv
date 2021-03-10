@@ -1,0 +1,402 @@
+Schlüssel-nummer;Bundesland;RegionaleBezeichnung;Kreis;Fläche _in_km2;Bev_insgesamt;Bev_männlich;Bev_weiblich
+01001;Schleswig-Holstein;Kreisfreie Stadt;SK Flensburg;    56,73;   89 504;   44 599;   44 905
+01002;Schleswig-Holstein;Kreisfreie Stadt;SK Kiel;    118,65;   247 548;   120 566;   126 982
+01003;Schleswig-Holstein;Kreisfreie Stadt;SK Lübeck;    214,19;   217 198;   104 371;   112 827
+01004;Schleswig-Holstein;Kreisfreie Stadt;SK Neumünster;    71,66;   79 487;   39 241;   40 246
+01051;Schleswig-Holstein;Kreis;LK Dithmarschen;    1428,17;   133 210;   65 720;   67 490
+01053;Schleswig-Holstein;Kreis;LK Herzogtum Lauenburg;    1263,07;   197 264;   96 881;   100 383
+01054;Schleswig-Holstein;Kreis;LK Nordfriesland;    2083,55;   165 507;   81 099;   84 408
+01055;Schleswig-Holstein;Kreis;LK Ostholstein;    1393,02;   200 581;   96 765;   103 816
+01056;Schleswig-Holstein;Kreis;LK Pinneberg;    664,25;   314 391;   154 211;   160 180
+01057;Schleswig-Holstein;Kreis;LK Plön;    1083,56;   128 647;   62 532;   66 115
+01058;Schleswig-Holstein;Kreis;LK Rendsburg-Eckernförde;    2189,79;   272 775;   134 109;   138 666
+01059;Schleswig-Holstein;Kreis;LK Schleswig-Flensburg;    2071,28;   200 025;   99 092;   100 933
+01060;Schleswig-Holstein;Kreis;LK Segeberg;    1344,47;   276 032;   136 517;   139 515
+01061;Schleswig-Holstein;Kreis;LK Steinburg;    1055,70;   131 347;   64 923;   66 424
+01062;Schleswig-Holstein;Kreis;LK Stormarn;    766,21;   243 196;   118 831;   124 365
+02000;Hamburg;Kreisfreie Stadt;SK Hamburg;    755,09;  1 841 179;   902 048;   939 131
+03101;Niedersachsen;Kreisfreie Stadt;SK Braunschweig;    192,70;   248 292;   122 985;   125 307
+03102;Niedersachsen;Kreisfreie Stadt;SK Salzgitter;    224,49;   104 948;   52 202;   52 746
+03103;Niedersachsen;Kreisfreie Stadt;SK Wolfsburg;    204,61;   124 151;   61 820;   62 331
+03151;Niedersachsen;Landkreis;LK Gifhorn;    1567,45;   175 920;   88 035;   87 885
+03153;Niedersachsen;Landkreis;LK Goslar;    966,72;   137 014;   67 834;   69 180
+03154;Niedersachsen;Landkreis;LK Helmstedt;    676,15;   91 307;   45 241;   46 066
+03155;Niedersachsen;Landkreis;LK Northeim;    1268,76;   132 765;   65 445;   67 320
+03157;Niedersachsen;Landkreis;LK Peine;    536,50;   133 965;   66 286;   67 679
+03158;Niedersachsen;Landkreis;LK Wolfenbüttel;    724,30;   119 960;   59 370;   60 590
+03159;Niedersachsen;Landkreis;LK Göttingen;    1755,41;   328 074;   161 187;   166 887
+03241;Niedersachsen;Landkreis;Region Hannover;    2297,13;  1 157 624;   567 201;   590 423
+03251;Niedersachsen;Landkreis;LK Diepholz;    1991,01;   216 886;   107 853;   109 033
+03252;Niedersachsen;Landkreis;LK Hameln-Pyrmont;    797,54;   148 559;   71 840;   76 719
+03254;Niedersachsen;Landkreis;LK Hildesheim;    1208,33;   276 594;   134 912;   141 682
+03255;Niedersachsen;Landkreis;LK Holzminden;    694,27;   70 975;   35 187;   35 788
+03256;Niedersachsen;Landkreis;LK Nienburg (Weser);    1400,82;   121 386;   60 400;   60 986
+03257;Niedersachsen;Landkreis;LK Schaumburg;    675,65;   157 781;   77 174;   80 607
+03351;Niedersachsen;Landkreis;LK Celle;    1550,82;   178 936;   88 054;   90 882
+03352;Niedersachsen;Landkreis;LK Cuxhaven;    2058,96;   198 213;   97 044;   101 169
+03353;Niedersachsen;Landkreis;LK Harburg;    1248,45;   252 776;   124 502;   128 274
+03354;Niedersachsen;Landkreis;LK Lüchow-Dannenberg;    1227,16;   48 424;   23 839;   24 585
+03355;Niedersachsen;Landkreis;LK Lüneburg;    1327,80;   183 372;   89 543;   93 829
+03356;Niedersachsen;Landkreis;LK Osterholz;    652,67;   113 517;   55 765;   57 752
+03357;Niedersachsen;Landkreis;LK Rotenburg (Wümme);    2074,78;   163 455;   82 132;   81 323
+03358;Niedersachsen;Landkreis;LK Heidekreis;    1881,45;   139 755;   69 757;   69 998
+03359;Niedersachsen;Landkreis;LK Stade;    1267,38;   203 102;   101 043;   102 059
+03360;Niedersachsen;Landkreis;LK Uelzen;    1462,59;   92 572;   45 241;   47 331
+03361;Niedersachsen;Landkreis;LK Verden;    789,33;   136 792;   67 166;   69 626
+03401;Niedersachsen;Kreisfreie Stadt;SK Delmenhorst;    62,45;   77 607;   38 437;   39 170
+03402;Niedersachsen;Kreisfreie Stadt;SK Emden;    112,34;   50 195;   25 084;   25 111
+03403;Niedersachsen;Kreisfreie Stadt;SK Oldenburg;    103,09;   168 210;   80 501;   87 709
+03404;Niedersachsen;Kreisfreie Stadt;SK Osnabrück;    119,80;   164 748;   79 756;   84 992
+03405;Niedersachsen;Kreisfreie Stadt;SK Wilhelmshaven;    107,07;   76 278;   37 596;   38 682
+03451;Niedersachsen;Landkreis;LK Ammerland;    730,64;   124 071;   60 658;   63 413
+03452;Niedersachsen;Landkreis;LK Aurich;    1287,35;   189 848;   93 555;   96 293
+03453;Niedersachsen;Landkreis;LK Cloppenburg;    1420,35;   169 348;   85 707;   83 641
+03454;Niedersachsen;Landkreis;LK Emsland;    2883,66;   325 657;   165 784;   159 873
+03455;Niedersachsen;Landkreis;LK Friesland;    609,53;   98 460;   48 064;   50 396
+03456;Niedersachsen;Landkreis;LK Grafschaft Bentheim;    981,79;   136 511;   68 305;   68 206
+03457;Niedersachsen;Landkreis;LK Leer;    1085,72;   169 809;   84 810;   84 999
+03458;Niedersachsen;Landkreis;LK Oldenburg;    1064,84;   130 144;   64 574;   65 570
+03459;Niedersachsen;Landkreis;LK Osnabrück;    2121,81;   357 343;   177 430;   179 913
+03460;Niedersachsen;Landkreis;LK Vechta;    814,20;   141 598;   71 595;   70 003
+03461;Niedersachsen;Landkreis;LK Wesermarsch;    824,78;   88 624;   44 410;   44 214
+03462;Niedersachsen;Landkreis;LK Wittmund;    656,86;   56 882;   27 919;   28 963
+04011;Bremen;Kreisfreie Stadt;SK Bremen;    317,83;   569 352;   281 336;   288 016
+04012;Bremen;Kreisfreie Stadt;SK Bremerhaven;    101,53;   113 634;   56 699;   56 935
+05111;Nordrhein-Westfalen;Kreisfreie Stadt;SK Düsseldorf;    217,41;   619 294;   299 315;   319 979
+05112;Nordrhein-Westfalen;Kreisfreie Stadt;SK Duisburg;    232,80;   498 590;   246 588;   252 002
+05113;Nordrhein-Westfalen;Kreisfreie Stadt;SK Essen;    210,34;   583 109;   283 005;   300 104
+05114;Nordrhein-Westfalen;Kreisfreie Stadt;SK Krefeld;    137,77;   227 020;   110 745;   116 275
+05116;Nordrhein-Westfalen;Kreisfreie Stadt;SK Mönchengladbach;    170,47;   261 454;   128 655;   132 799
+05117;Nordrhein-Westfalen;Kreisfreie Stadt;SK Mülheim a.d.Ruhr;    91,28;   170 880;   82 387;   88 493
+05119;Nordrhein-Westfalen;Kreisfreie Stadt;SK Oberhausen;    77,09;   210 829;   103 612;   107 217
+05120;Nordrhein-Westfalen;Kreisfreie Stadt;SK Remscheid;    74,52;   110 994;   54 664;   56 330
+05122;Nordrhein-Westfalen;Kreisfreie Stadt;SK Solingen;    89,54;   159 360;   77 471;   81 889
+05124;Nordrhein-Westfalen;Kreisfreie Stadt;SK Wuppertal;    168,39;   354 382;   173 687;   180 695
+05154;Nordrhein-Westfalen;Kreis;LK Kleve;    1232,99;   310 974;   154 628;   156 346
+05158;Nordrhein-Westfalen;Kreis;LK Mettmann;    407,22;   485 684;   234 705;   250 979
+05162;Nordrhein-Westfalen;Kreis;LK Rhein-Kreis Neuss;    576,28;   451 007;   219 214;   231 793
+05166;Nordrhein-Westfalen;Kreis;LK Viersen;    563,28;   298 935;   145 913;   153 022
+05170;Nordrhein-Westfalen;Kreis;LK Wesel;    1042,80;   459 809;   224 137;   235 672
+05314;Nordrhein-Westfalen;Kreisfreie Stadt;SK Bonn;    141,06;   327 258;   156 328;   170 930
+05315;Nordrhein-Westfalen;Kreisfreie Stadt;SK Köln;    405,01;  1 085 664;   529 368;   556 296
+05316;Nordrhein-Westfalen;Kreisfreie Stadt;SK Leverkusen;    78,87;   163 838;   79 787;   84 051
+05334;Nordrhein-Westfalen;Kreis;StadtRegion Aachen;    706,91;   555 465;   280 162;   275 303
+05358;Nordrhein-Westfalen;Kreis;LK Düren;    941,49;   263 722;   130 761;   132 961
+05362;Nordrhein-Westfalen;Kreis;LK Rhein-Erft-Kreis;    704,71;   470 089;   230 062;   240 027
+05366;Nordrhein-Westfalen;Kreis;LK Euskirchen;    1248,73;   192 840;   95 124;   97 716
+05370;Nordrhein-Westfalen;Kreis;LK Heinsberg;    627,91;   254 322;   125 849;   128 473
+05374;Nordrhein-Westfalen;Kreis;LK Oberbergischer Kreis;    918,85;   272 471;   134 069;   138 402
+05378;Nordrhein-Westfalen;Kreis;LK Rheinisch-Bergischer Kreis;    437,32;   283 455;   137 572;   145 883
+05382;Nordrhein-Westfalen;Kreis;LK Rhein-Sieg-Kreis;    1153,20;   599 780;   294 093;   305 687
+05512;Nordrhein-Westfalen;Kreisfreie Stadt;SK Bottrop;    100,61;   117 383;   57 101;   60 282
+05513;Nordrhein-Westfalen;Kreisfreie Stadt;SK Gelsenkirchen;    104,94;   260 654;   129 778;   130 876
+05515;Nordrhein-Westfalen;Kreisfreie Stadt;SK Münster;    303,28;   314 319;   150 836;   163 483
+05554;Nordrhein-Westfalen;Kreis;LK Borken;    1420,98;   370 676;   185 195;   185 481
+05558;Nordrhein-Westfalen;Kreis;LK Coesfeld;    1112,05;   219 929;   108 564;   111 365
+05562;Nordrhein-Westfalen;Kreis;LK Recklinghausen;    761,31;   615 261;   300 019;   315 242
+05566;Nordrhein-Westfalen;Kreis;LK Steinfurt;    1795,76;   447 614;   222 633;   224 981
+05570;Nordrhein-Westfalen;Kreis;LK Warendorf;    1319,42;   277 783;   137 298;   140 485
+05711;Nordrhein-Westfalen;Kreisfreie Stadt;SK Bielefeld;    258,83;   333 786;   161 078;   172 708
+05754;Nordrhein-Westfalen;Kreis;LK Gütersloh;    969,21;   364 083;   181 844;   182 239
+05758;Nordrhein-Westfalen;Kreis;LK Herford;    450,41;   250 783;   122 959;   127 824
+05762;Nordrhein-Westfalen;Kreis;LK Höxter;    1201,42;   140 667;   70 059;   70 608
+05766;Nordrhein-Westfalen;Kreis;LK Lippe;    1246,22;   348 391;   170 965;   177 426
+05770;Nordrhein-Westfalen;Kreis;LK Minden-Lübbecke;    1152,41;   310 710;   153 305;   157 405
+05774;Nordrhein-Westfalen;Kreis;LK Paderborn;    1246,80;   306 890;   153 622;   153 268
+05911;Nordrhein-Westfalen;Kreisfreie Stadt;SK Bochum;    145,66;   364 628;   177 699;   186 929
+05913;Nordrhein-Westfalen;Kreisfreie Stadt;SK Dortmund;    280,71;   587 010;   288 386;   298 624
+05914;Nordrhein-Westfalen;Kreisfreie Stadt;SK Hagen;    160,45;   188 814;   92 168;   96 646
+05915;Nordrhein-Westfalen;Kreisfreie Stadt;SK Hamm;    226,43;   179 111;   88 024;   91 087
+05916;Nordrhein-Westfalen;Kreisfreie Stadt;SK Herne;    51,42;   156 374;   76 649;   79 725
+05954;Nordrhein-Westfalen;Kreis;LK Ennepe-Ruhr-Kreis;    409,64;   324 296;   157 490;   166 806
+05958;Nordrhein-Westfalen;Kreis;LK Hochsauerlandkreis;    1960,17;   260 475;   129 947;   130 528
+05962;Nordrhein-Westfalen;Kreis;LK Märkischer Kreis;    1061,06;   412 120;   202 817;   209 303
+05966;Nordrhein-Westfalen;Kreis;LK Olpe;    712,14;   134 775;   67 610;   67 165
+05970;Nordrhein-Westfalen;Kreis;LK Siegen-Wittgenstein;    1132,89;   278 210;   138 358;   139 852
+05974;Nordrhein-Westfalen;Kreis;LK Soest;    1328,64;   301 902;   150 022;   151 880
+05978;Nordrhein-Westfalen;Kreis;LK Unna;    543,21;   394 782;   192 304;   202 478
+06411;Hessen;Kreisfreie Stadt;SK Darmstadt;    122,07;   159 207;   81 217;   77 990
+06412;Hessen;Kreisfreie Stadt;SK Frankfurt am Main;    248,31;   753 056;   371 671;   381 385
+06413;Hessen;Kreisfreie Stadt;SK Offenbach;    44,88;   128 744;   63 699;   65 045
+06414;Hessen;Kreisfreie Stadt;SK Wiesbaden;    203,87;   278 342;   132 943;   145 399
+06431;Hessen;Landkreis;LK Bergstraße;    719,47;   269 694;   133 318;   136 376
+06432;Hessen;Landkreis;LK Darmstadt-Dieburg;    658,64;   297 399;   147 786;   149 613
+06433;Hessen;Landkreis;LK Groß-Gerau;    453,03;   274 526;   137 325;   137 201
+06434;Hessen;Landkreis;LK Hochtaunuskreis;    481,84;   236 564;   114 878;   121 686
+06435;Hessen;Landkreis;LK Main-Kinzig-Kreis;    1397,32;   418 950;   206 555;   212 395
+06436;Hessen;Landkreis;LK Main-Taunus-Kreis;    222,53;   237 735;   116 332;   121 403
+06437;Hessen;Landkreis;LK Odenwaldkreis;    623,97;   96 798;   47 875;   48 923
+06438;Hessen;Landkreis;LK Offenbach;    356,24;   354 092;   174 417;   179 675
+06439;Hessen;Landkreis;LK Rheingau-Taunus-Kreis;    811,41;   187 157;   91 962;   95 195
+06440;Hessen;Landkreis;LK Wetteraukreis;    1100,66;   306 460;   151 276;   155 184
+06531;Hessen;Landkreis;LK Gießen;    854,56;   268 876;   132 135;   136 741
+06532;Hessen;Landkreis;LK Lahn-Dill-Kreis;    1066,30;   253 777;   125 090;   128 687
+06533;Hessen;Landkreis;LK Limburg-Weilburg;    738,44;   172 083;   85 571;   86 512
+06534;Hessen;Landkreis;LK Marburg-Biedenkopf;    1262,37;   246 648;   121 414;   125 234
+06535;Hessen;Landkreis;LK Vogelsbergkreis;    1458,91;   105 878;   52 992;   52 886
+06611;Hessen;Kreisfreie Stadt;SK Kassel;    106,80;   201 585;   99 007;   102 578
+06631;Hessen;Landkreis;LK Fulda;    1380,41;   222 584;   110 592;   111 992
+06632;Hessen;Landkreis;LK Hersfeld-Rotenburg;    1097,75;   120 829;   60 523;   60 306
+06633;Hessen;Landkreis;LK Kassel;    1293,35;   236 633;   116 122;   120 511
+06634;Hessen;Landkreis;LK Schwalm-Eder-Kreis;    1539,01;   180 222;   90 181;   90 041
+06635;Hessen;Landkreis;LK Waldeck-Frankenberg;    1848,70;   156 953;   78 198;   78 755
+06636;Hessen;Landkreis;LK Werra-Meißner-Kreis;    1024,83;   101 017;   49 965;   51 052
+07111;Rheinland-Pfalz;Kreisfreie Stadt;SK Koblenz;    105,25;   114 024;   55 628;   58 396
+07131;Rheinland-Pfalz;Landkreis;LK Ahrweiler;    787,02;   129 727;   63 755;   65 972
+07132;Rheinland-Pfalz;Landkreis;LK Altenkirchen;    642,38;   128 705;   63 859;   64 846
+07133;Rheinland-Pfalz;Landkreis;LK Bad Kreuznach;    863,89;   158 080;   77 185;   80 895
+07134;Rheinland-Pfalz;Landkreis;LK Birkenfeld;    776,83;   80 720;   40 021;   40 699
+07135;Rheinland-Pfalz;Landkreis;LK Cochem-Zell;    692,43;   61 587;   30 841;   30 746
+07137;Rheinland-Pfalz;Landkreis;LK Mayen-Koblenz;    817,73;   214 259;   105 746;   108 513
+07138;Rheinland-Pfalz;Landkreis;LK Neuwied;    627,06;   181 941;   89 488;   92 453
+07140;Rheinland-Pfalz;Landkreis;LK Rhein-Hunsrück-Kreis;    991,06;   102 937;   51 206;   51 731
+07141;Rheinland-Pfalz;Landkreis;LK Rhein-Lahn-Kreis;    782,24;   122 308;   60 525;   61 783
+07143;Rheinland-Pfalz;Landkreis;LK Westerwaldkreis;    989,04;   201 597;   100 218;   101 379
+07211;Rheinland-Pfalz;Kreisfreie Stadt;SK Trier;    117,06;   110 636;   54 444;   56 192
+07231;Rheinland-Pfalz;Landkreis;LK Bernkastel-Wittlich;    1167,92;   112 262;   56 124;   56 138
+07232;Rheinland-Pfalz;Landkreis;LK Bitburg-Prüm;    1626,95;   98 561;   49 576;   48 985
+07233;Rheinland-Pfalz;Landkreis;LK Vulkaneifel;    911,64;   60 603;   30 427;   30 176
+07235;Rheinland-Pfalz;Landkreis;LK Trier-Saarburg;    1102,26;   148 945;   73 673;   75 272
+07311;Rheinland-Pfalz;Kreisfreie Stadt;SK Frankenthal;    43,88;   48 561;   23 489;   25 072
+07312;Rheinland-Pfalz;Kreisfreie Stadt;SK Kaiserslautern;    139,70;   99 845;   50 353;   49 492
+07313;Rheinland-Pfalz;Kreisfreie Stadt;SK Landau i.d.Pfalz;    82,94;   46 677;   22 078;   24 599
+07314;Rheinland-Pfalz;Kreisfreie Stadt;SK Ludwigshafen;    77,43;   171 061;   85 820;   85 241
+07315;Rheinland-Pfalz;Kreisfreie Stadt;SK Mainz;    97,73;   217 118;   105 599;   111 519
+07316;Rheinland-Pfalz;Kreisfreie Stadt;SK Neustadt a.d.Weinstraße;    117,09;   53 148;   25 955;   27 193
+07317;Rheinland-Pfalz;Kreisfreie Stadt;SK Pirmasens;    61,36;   40 403;   19 780;   20 623
+07318;Rheinland-Pfalz;Kreisfreie Stadt;SK Speyer;    42,71;   50 378;   24 363;   26 015
+07319;Rheinland-Pfalz;Kreisfreie Stadt;SK Worms;    108,73;   83 330;   41 080;   42 250
+07320;Rheinland-Pfalz;Kreisfreie Stadt;SK Zweibrücken;    70,64;   34 209;   16 954;   17 255
+07331;Rheinland-Pfalz;Landkreis;LK Alzey-Worms;    588,07;   129 244;   64 389;   64 855
+07332;Rheinland-Pfalz;Landkreis;LK Bad Dürkheim;    594,64;   132 660;   64 838;   67 822
+07333;Rheinland-Pfalz;Landkreis;LK Donnersbergkreis;    645,41;   75 101;   37 194;   37 907
+07334;Rheinland-Pfalz;Landkreis;LK Germersheim;    463,32;   129 075;   64 379;   64 696
+07335;Rheinland-Pfalz;Landkreis;LK Kaiserslautern;    640,00;   106 057;   52 135;   53 922
+07336;Rheinland-Pfalz;Landkreis;LK Kusel;    573,61;   70 526;   35 052;   35 474
+07337;Rheinland-Pfalz;Landkreis;LK Südliche Weinstraße;    639,93;   110 356;   54 441;   55 915
+07338;Rheinland-Pfalz;Landkreis;LK Rhein-Pfalz-Kreis;    304,99;   154 201;   76 030;   78 171
+07339;Rheinland-Pfalz;Landkreis;LK Mainz-Bingen;    605,36;   210 889;   104 015;   106 874
+07340;Rheinland-Pfalz;Landkreis;LK Südwestpfalz;    953,52;   95 113;   46 916;   48 197
+08111;Baden-Württemberg;Stadtkreis;SK Stuttgart;    207,33;   634 830;   317 139;   317 691
+08115;Baden-Württemberg;Landkreis;LK Böblingen;    617,76;   391 640;   194 989;   196 651
+08116;Baden-Württemberg;Landkreis;LK Esslingen;    641,28;   533 859;   266 783;   267 076
+08117;Baden-Württemberg;Landkreis;LK Göppingen;    642,34;   257 253;   128 093;   129 160
+08118;Baden-Württemberg;Landkreis;LK Ludwigsburg;    686,77;   543 984;   269 961;   274 023
+08119;Baden-Württemberg;Landkreis;LK Rems-Murr-Kreis;    858,08;   426 158;   210 861;   215 297
+08121;Baden-Württemberg;Stadtkreis;SK Heilbronn;    99,89;   125 960;   63 527;   62 433
+08125;Baden-Württemberg;Landkreis;LK Heilbronn;    1099,91;   343 068;   172 382;   170 686
+08126;Baden-Württemberg;Landkreis;LK Hohenlohekreis;    776,76;   112 010;   56 550;   55 460
+08127;Baden-Württemberg;Landkreis;LK Schwäbisch Hall;    1484,07;   195 861;   98 314;   97 547
+08128;Baden-Württemberg;Landkreis;LK Main-Tauber-Kreis;    1304,12;   132 321;   65 923;   66 398
+08135;Baden-Württemberg;Landkreis;LK Heidenheim;    627,13;   132 472;   66 092;   66 380
+08136;Baden-Württemberg;Landkreis;LK Ostalbkreis;    1511,39;   314 002;   156 480;   157 522
+08211;Baden-Württemberg;Stadtkreis;SK Baden-Baden;    140,19;   55 123;   26 442;   28 681
+08212;Baden-Württemberg;Stadtkreis;SK Karlsruhe;    173,42;   313 092;   160 429;   152 663
+08215;Baden-Württemberg;Landkreis;LK Karlsruhe;    1085,29;   444 232;   221 339;   222 893
+08216;Baden-Württemberg;Landkreis;LK Rastatt;    738,43;   231 018;   114 797;   116 221
+08221;Baden-Württemberg;Stadtkreis;SK Heidelberg;    108,83;   160 355;   77 112;   83 243
+08222;Baden-Württemberg;Stadtkreis;SK Mannheim;    144,97;   309 370;   154 273;   155 097
+08225;Baden-Württemberg;Landkreis;LK Neckar-Odenwald-Kreis;    1125,95;   143 535;   72 057;   71 478
+08226;Baden-Württemberg;Landkreis;LK Rhein-Neckar-Kreis;    1061,55;   547 625;   269 317;   278 308
+08231;Baden-Württemberg;Stadtkreis;SK Pforzheim;    97,99;   125 542;   61 699;   63 843
+08235;Baden-Württemberg;Landkreis;LK Calw;    797,29;   158 397;   79 514;   78 883
+08236;Baden-Württemberg;Landkreis;LK Enzkreis;    573,60;   198 905;   98 744;   100 161
+08237;Baden-Württemberg;Landkreis;LK Freudenstadt;    870,40;   117 935;   58 898;   59 037
+08311;Baden-Württemberg;Stadtkreis;SK Freiburg i.Breisgau;    153,04;   230 241;   109 829;   120 412
+08315;Baden-Württemberg;Landkreis;LK Breisgau-Hochschwarzwald;    1378,32;   262 795;   129 641;   133 154
+08316;Baden-Württemberg;Landkreis;LK Emmendingen;    679,80;   165 383;   81 772;   83 611
+08317;Baden-Württemberg;Landkreis;LK Ortenaukreis;    1860,29;   429 479;   214 221;   215 258
+08325;Baden-Württemberg;Landkreis;LK Rottweil;    769,42;   139 455;   69 767;   69 688
+08326;Baden-Württemberg;Landkreis;LK Schwarzwald-Baar-Kreis;    1025,34;   212 381;   105 542;   106 839
+08327;Baden-Württemberg;Landkreis;LK Tuttlingen;    734,38;   140 152;   70 452;   69 700
+08335;Baden-Württemberg;Landkreis;LK Konstanz;    817,98;   285 325;   139 046;   146 279
+08336;Baden-Württemberg;Landkreis;LK Lörrach;    806,72;   228 639;   111 981;   116 658
+08337;Baden-Württemberg;Landkreis;LK Waldshut;    1131,14;   170 619;   84 587;   86 032
+08415;Baden-Württemberg;Landkreis;LK Reutlingen;    1092,48;   286 748;   142 232;   144 516
+08416;Baden-Württemberg;Landkreis;LK Tübingen;    519,11;   227 331;   110 795;   116 536
+08417;Baden-Württemberg;Landkreis;LK Zollernalbkreis;    917,58;   188 935;   93 808;   95 127
+08421;Baden-Württemberg;Stadtkreis;SK Ulm;    118,68;   126 329;   62 660;   63 669
+08425;Baden-Württemberg;Landkreis;LK Alb-Donau-Kreis;    1358,55;   196 047;   99 041;   97 006
+08426;Baden-Württemberg;Landkreis;LK Biberach;    1409,52;   199 742;   100 634;   99 108
+08435;Baden-Württemberg;Landkreis;LK Bodenseekreis;    664,80;   216 227;   106 544;   109 683
+08436;Baden-Württemberg;Landkreis;LK Ravensburg;    1632,08;   284 285;   141 777;   142 508
+08437;Baden-Württemberg;Landkreis;LK Sigmaringen;    1204,23;   130 873;   65 649;   65 224
+09161;Bayern;Kreisfreie Stadt;SK Ingolstadt;    133,35;   136 981;   69 252;   67 729
+09162;Bayern;Kreisfreie Stadt;SK München;    310,70;  1 471 508;   717 308;   754 200
+09163;Bayern;Kreisfreie Stadt;SK Rosenheim;    37,22;   63 324;   31 321;   32 003
+09171;Bayern;Landkreis;LK Altötting;    569,28;   111 210;   54 942;   56 268
+09172;Bayern;Landkreis;LK Berchtesgadener Land;    839,82;   105 722;   52 007;   53 715
+09173;Bayern;Landkreis;LK Bad Tölz-Wolfratshausen;    1110,66;   127 227;   62 731;   64 496
+09174;Bayern;Landkreis;LK Dachau;    579,16;   153 884;   77 120;   76 764
+09175;Bayern;Landkreis;LK Ebersberg;    549,39;   142 142;   70 972;   71 170
+09176;Bayern;Landkreis;LK Eichstätt;    1213,85;   132 341;   67 325;   65 016
+09177;Bayern;Landkreis;LK Erding;    870,74;   137 660;   69 367;   68 293
+09178;Bayern;Landkreis;LK Freising;    799,85;   179 116;   91 393;   87 723
+09179;Bayern;Landkreis;LK Fürstenfeldbruck;    434,80;   219 320;   107 686;   111 634
+09180;Bayern;Landkreis;LK Garmisch-Partenkirchen;    1012,17;   88 467;   42 969;   45 498
+09181;Bayern;Landkreis;LK Landsberg a.Lech;    804,36;   120 071;   60 077;   59 994
+09182;Bayern;Landkreis;LK Miesbach;    866,22;   99 726;   48 870;   50 856
+09183;Bayern;Landkreis;LK Mühldorf a.Inn;    805,33;   115 250;   58 360;   56 890
+09184;Bayern;Landkreis;LK München;    664,25;   348 871;   173 601;   175 270
+09185;Bayern;Landkreis;LK Neuburg-Schrobenhausen;    739,71;   96 680;   48 679;   48 001
+09186;Bayern;Landkreis;LK Pfaffenhofen a.d.Ilm;    761,05;   127 151;   64 639;   62 512
+09187;Bayern;Landkreis;LK Rosenheim;    1439,44;   260 983;   129 253;   131 730
+09188;Bayern;Landkreis;LK Starnberg;    487,72;   136 092;   66 020;   70 072
+09189;Bayern;Landkreis;LK Traunstein;    1533,76;   177 089;   87 564;   89 525
+09190;Bayern;Landkreis;LK Weilheim-Schongau;    966,28;   135 348;   67 321;   68 027
+09261;Bayern;Kreisfreie Stadt;SK Landshut;    65,83;   72 404;   35 403;   37 001
+09262;Bayern;Kreisfreie Stadt;SK Passau;    69,56;   52 469;   25 344;   27 125
+09263;Bayern;Kreisfreie Stadt;SK Straubing;    67,59;   47 794;   24 117;   23 677
+09271;Bayern;Landkreis;LK Deggendorf;    861,17;   119 326;   59 547;   59 779
+09272;Bayern;Landkreis;LK Freyung-Grafenau;    983,85;   78 355;   39 103;   39 252
+09273;Bayern;Landkreis;LK Kelheim;    1065,13;   122 258;   62 137;   60 121
+09274;Bayern;Landkreis;LK Landshut;    1347,56;   158 698;   80 519;   78 179
+09275;Bayern;Landkreis;LK Passau;    1530,09;   192 043;   95 471;   96 572
+09276;Bayern;Landkreis;LK Regen;    974,78;   77 656;   38 745;   38 911
+09277;Bayern;Landkreis;LK Rottal-Inn;    1281,20;   120 659;   60 346;   60 313
+09278;Bayern;Landkreis;LK Straubing-Bogen;    1201,61;   100 649;   50 627;   50 022
+09279;Bayern;Landkreis;LK Dingolfing-Landau;    877,58;   96 217;   49 450;   46 767
+09361;Bayern;Kreisfreie Stadt;SK Amberg;    50,13;   41 970;   20 673;   21 297
+09362;Bayern;Kreisfreie Stadt;SK Regensburg;    80,86;   152 610;   74 225;   78 385
+09363;Bayern;Kreisfreie Stadt;SK Weiden i.d.OPf.;    70,57;   42 520;   20 542;   21 978
+09371;Bayern;Landkreis;LK Amberg-Sulzbach;    1255,86;   103 109;   51 665;   51 444
+09372;Bayern;Landkreis;LK Cham;    1526,82;   127 882;   64 248;   63 634
+09373;Bayern;Landkreis;LK Neumarkt i.d.OPf.;    1343,96;   133 561;   67 499;   66 062
+09374;Bayern;Landkreis;LK Neustadt a.d.Waldnaab;    1427,69;   94 352;   46 943;   47 409
+09375;Bayern;Landkreis;LK Regensburg;    1391,65;   193 572;   97 081;   96 491
+09376;Bayern;Landkreis;LK Schwandorf;    1458,34;   147 189;   73 964;   73 225
+09377;Bayern;Landkreis;LK Tirschenreuth;    1084,25;   72 504;   36 121;   36 383
+09461;Bayern;Kreisfreie Stadt;SK Bamberg;    54,62;   77 592;   37 464;   40 128
+09462;Bayern;Kreisfreie Stadt;SK Bayreuth;    66,89;   74 657;   36 469;   38 188
+09463;Bayern;Kreisfreie Stadt;SK Coburg;    48,29;   41 249;   20 162;   21 087
+09464;Bayern;Kreisfreie Stadt;SK Hof;    58,02;   45 930;   22 098;   23 832
+09471;Bayern;Landkreis;LK Bamberg;    1167,79;   147 086;   73 725;   73 361
+09472;Bayern;Landkreis;LK Bayreuth;    1273,62;   103 656;   51 310;   52 346
+09473;Bayern;Landkreis;LK Coburg;    590,42;   86 906;   42 912;   43 994
+09474;Bayern;Landkreis;LK Forchheim;    642,82;   116 099;   57 703;   58 396
+09475;Bayern;Landkreis;LK Hof;    892,52;   95 311;   46 646;   48 665
+09476;Bayern;Landkreis;LK Kronach;    651,49;   67 135;   33 184;   33 951
+09477;Bayern;Landkreis;LK Kulmbach;    658,33;   71 845;   35 345;   36 500
+09478;Bayern;Landkreis;LK Lichtenfels;    519,94;   66 838;   33 027;   33 811
+09479;Bayern;Landkreis;LK Wunsiedel i.Fichtelgebirge;    606,37;   73 178;   35 718;   37 460
+09561;Bayern;Kreisfreie Stadt;SK Ansbach;    99,91;   41 847;   20 048;   21 799
+09562;Bayern;Kreisfreie Stadt;SK Erlangen;    76,96;   111 962;   55 864;   56 098
+09563;Bayern;Kreisfreie Stadt;SK Fürth;    63,35;   127 748;   62 603;   65 145
+09564;Bayern;Kreisfreie Stadt;SK Nürnberg;    186,45;   518 365;   252 807;   265 558
+09565;Bayern;Kreisfreie Stadt;SK Schwabach;    40,80;   40 792;   19 895;   20 897
+09571;Bayern;Landkreis;LK Ansbach;    1971,33;   183 949;   92 450;   91 499
+09572;Bayern;Landkreis;LK Erlangen-Höchstadt;    564,56;   136 271;   67 763;   68 508
+09573;Bayern;Landkreis;LK Fürth;    307,44;   117 387;   57 064;   60 323
+09574;Bayern;Landkreis;LK Nürnberger Land;    799,51;   170 365;   83 946;   86 419
+09575;Bayern;Landkreis;LK Neustadt a.d.Aisch-Bad Windsheim;    1267,44;   100 364;   50 331;   50 033
+09576;Bayern;Landkreis;LK Roth;    895,16;   126 958;   63 206;   63 752
+09577;Bayern;Landkreis;LK Weißenburg-Gunzenhausen;    970,78;   94 393;   47 093;   47 300
+09661;Bayern;Kreisfreie Stadt;SK Aschaffenburg;    62,45;   70 527;   34 316;   36 211
+09662;Bayern;Kreisfreie Stadt;SK Schweinfurt;    35,70;   54 032;   26 553;   27 479
+09663;Bayern;Kreisfreie Stadt;SK Würzburg;    87,60;   127 880;   61 151;   66 729
+09671;Bayern;Landkreis;LK Aschaffenburg;    698,90;   174 208;   86 570;   87 638
+09672;Bayern;Landkreis;LK Bad Kissingen;    1136,90;   103 218;   50 865;   52 353
+09673;Bayern;Landkreis;LK Rhön-Grabfeld;    1021,68;   79 690;   39 677;   40 013
+09674;Bayern;Landkreis;LK Haßberge;    956,19;   84 599;   42 468;   42 131
+09675;Bayern;Landkreis;LK Kitzingen;    684,14;   90 909;   45 791;   45 118
+09676;Bayern;Landkreis;LK Miltenberg;    715,58;   128 756;   64 190;   64 566
+09677;Bayern;Landkreis;LK Main-Spessart;    1321,20;   126 365;   62 953;   63 412
+09678;Bayern;Landkreis;LK Schweinfurt;    841,39;   115 106;   57 768;   57 338
+09679;Bayern;Landkreis;LK Würzburg;    968,35;   161 834;   80 594;   81 240
+09761;Bayern;Kreisfreie Stadt;SK Augsburg;    146,85;   295 135;   145 158;   149 977
+09762;Bayern;Kreisfreie Stadt;SK Kaufbeuren;    40,02;   43 893;   21 610;   22 283
+09763;Bayern;Kreisfreie Stadt;SK Kempten;    63,28;   68 907;   34 141;   34 766
+09764;Bayern;Kreisfreie Stadt;SK Memmingen;    70,11;   43 837;   21 710;   22 127
+09771;Bayern;Landkreis;LK Aichach-Friedberg;    780,23;   133 596;   66 651;   66 945
+09772;Bayern;Landkreis;LK Augsburg;    1070,64;   251 534;   124 807;   126 727
+09773;Bayern;Landkreis;LK Dillingen a.d.Donau;    792,23;   96 021;   48 135;   47 886
+09774;Bayern;Landkreis;LK Günzburg;    762,40;   125 747;   63 576;   62 171
+09775;Bayern;Landkreis;LK Neu-Ulm;    515,84;   174 200;   86 470;   87 730
+09776;Bayern;Landkreis;LK Lindau;    323,39;   81 669;   40 285;   41 384
+09777;Bayern;Landkreis;LK Ostallgäu;    1394,43;   140 316;   69 968;   70 348
+09778;Bayern;Landkreis;LK Unterallgäu;    1229,57;   144 041;   72 608;   71 433
+09779;Bayern;Landkreis;LK Donau-Ries;    1274,58;   133 496;   67 821;   65 675
+09780;Bayern;Landkreis;LK Oberallgäu;    1527,96;   155 362;   76 577;   78 785
+10041;Saarland;Regionalverband;LK Stadtverband Saarbrücken;    410,95;   329 708;   162 003;   167 705
+10042;Saarland;Landkreis;LK Merzig-Wadern;    556,66;   103 366;   51 108;   52 258
+10043;Saarland;Landkreis;LK Neunkirchen;    249,80;   132 206;   64 915;   67 291
+10044;Saarland;Landkreis;LK Saarlouis;    459,35;   195 201;   95 550;   99 651
+10045;Saarland;Landkreis;LK Saar-Pfalz-Kreis;    418,28;   142 631;   69 385;   73 246
+10046;Saarland;Landkreis;LK Sankt Wendel;    476,07;   87 397;   43 198;   44 199
+11000;Berlin;Kreisfreie Stadt;SK Berlin;    891,12;  3 644 826;  1 792 801;  1 852 025
+12051;Brandenburg;Kreisfreie Stadt;SK Brandenburg a.d.Havel;    229,71;   72 124;   35 617;   36 507
+12052;Brandenburg;Kreisfreie Stadt;SK Cottbus;    165,63;   100 219;   49 201;   51 018
+12053;Brandenburg;Kreisfreie Stadt;SK Frankfurt (Oder);    147,85;   57 873;   28 023;   29 850
+12054;Brandenburg;Kreisfreie Stadt;SK Potsdam;    188,25;   178 089;   86 179;   91 910
+12060;Brandenburg;Landkreis;LK Barnim;    1479,61;   182 760;   90 615;   92 145
+12061;Brandenburg;Landkreis;LK Dahme-Spreewald;    2274,53;   169 067;   83 943;   85 124
+12062;Brandenburg;Landkreis;LK Elbe-Elster;    1899,16;   102 638;   50 832;   51 806
+12063;Brandenburg;Landkreis;LK Havelland;    1727,31;   161 909;   80 121;   81 788
+12064;Brandenburg;Landkreis;LK Märkisch-Oderland;    2158,65;   194 328;   96 483;   97 845
+12065;Brandenburg;Landkreis;LK Oberhavel;    1808,17;   211 249;   104 111;   107 138
+12066;Brandenburg;Landkreis;LK Oberspreewald-Lausitz;    1223,46;   110 476;   54 307;   56 169
+12067;Brandenburg;Landkreis;LK Oder-Spree;    2256,75;   178 658;   87 681;   90 977
+12068;Brandenburg;Landkreis;LK Ostprignitz-Ruppin;    2526,55;   99 078;   49 331;   49 747
+12069;Brandenburg;Landkreis;LK Potsdam-Mittelmark;    2592,06;   214 664;   106 258;   108 406
+12070;Brandenburg;Landkreis;LK Prignitz;    2138,58;   76 508;   37 977;   38 531
+12071;Brandenburg;Landkreis;LK Spree-Neiße;    1656,98;   114 429;   56 269;   58 160
+12072;Brandenburg;Landkreis;LK Teltow-Fläming;    2104,22;   168 296;   83 842;   84 454
+12073;Brandenburg;Landkreis;LK Uckermark;    3077,01;   119 552;   58 670;   60 882
+13003;Mecklenburg-Vorpommern;Kreisfreie Stadt;SK Rostock;    181,36;   208 886;   102 911;   105 975
+13004;Mecklenburg-Vorpommern;Kreisfreie Stadt;SK Schwerin;    130,52;   95 818;   46 054;   49 764
+13071;Mecklenburg-Vorpommern;Landkreis;LK Mecklenburgische Seenplatte;  5495,60;  259 130;  127 108;  132 022
+13072;Mecklenburg-Vorpommern;Landkreis;LK Rostock;    3431,29;   215 113;   107 111;   108 002
+13073;Mecklenburg-Vorpommern;Landkreis;LK Vorpommern-Rügen;    3215,41;   224 684;   110 477;   114 207
+13074;Mecklenburg-Vorpommern;Landkreis;LK Nordwestmecklenburg;    2127,08;   156 729;   77 899;   78 830
+13075;Mecklenburg-Vorpommern;Landkreis;LK Vorpommern-Greifswald;    3945,56;   236 697;   115 881;   120 816
+13076;Mecklenburg-Vorpommern;Landkreis;LK Ludwigslust-Parchim;    4766,79;   212 618;   106 198;   106 420
+14511;Sachsen;Kreisfreie Stadt;SK Chemnitz;    221,05;   247 237;   122 248;   124 989
+14521;Sachsen;Landkreis;LK Erzgebirgskreis;    1827,91;   337 696;   165 218;   172 478
+14522;Sachsen;Landkreis;LK Mittelsachsen;    2116,85;   306 185;   152 310;   153 875
+14523;Sachsen;Landkreis;LK Vogtlandkreis;    1412,42;   227 796;   111 055;   116 741
+14524;Sachsen;Landkreis;LK Zwickau;    949,78;   317 531;   154 978;   162 553
+14612;Sachsen;Kreisfreie Stadt;SK Dresden;    328,48;   554 649;   276 729;   277 920
+14625;Sachsen;Landkreis;LK Bautzen;    2395,61;   300 880;   148 502;   152 378
+14626;Sachsen;Landkreis;LK Görlitz;    2111,41;   254 894;   124 905;   129 989
+14627;Sachsen;Landkreis;LK Meißen;    1454,59;   242 165;   119 304;   122 861
+14628;Sachsen;Landkreis;LK Sächsische Schweiz-Osterzgebirge;    1654,19;   245 611;   121 219;   124 392
+14713;Sachsen;Kreisfreie Stadt;SK Leipzig;    297,80;   587 857;   288 553;   299 304
+14729;Sachsen;Landkreis;LK Leipzig;    1651,30;   257 763;   126 380;   131 383
+14730;Sachsen;Landkreis;LK Nordsachsen;    2028,56;   197 673;   98 218;   99 455
+15001;Sachsen-Anhalt;Kreisfreie Stadt;SK Dessau-Roßlau;    244,71;   81 237;   39 457;   41 780
+15002;Sachsen-Anhalt;Kreisfreie Stadt;SK Halle;    135,03;   239 257;   115 713;   123 544
+15003;Sachsen-Anhalt;Kreisfreie Stadt;SK Magdeburg;    201,01;   238 697;   117 828;   120 869
+15081;Sachsen-Anhalt;Landkreis;LK Altmarkkreis Salzwedel;    2293,36;   83 765;   41 748;   42 017
+15082;Sachsen-Anhalt;Landkreis;LK Anhalt-Bitterfeld;    1453,82;   159 854;   78 326;   81 528
+15083;Sachsen-Anhalt;Landkreis;LK Börde;    2366,91;   171 734;   85 660;   86 074
+15084;Sachsen-Anhalt;Landkreis;LK Burgenlandkreis;    1413,75;   180 190;   89 353;   90 837
+15085;Sachsen-Anhalt;Landkreis;LK Harz;    2104,72;   214 446;   105 101;   109 345
+15086;Sachsen-Anhalt;Landkreis;LK Jerichower Land;    1576,94;   89 928;   44 781;   45 147
+15087;Sachsen-Anhalt;Landkreis;LK Mansfeld-Südharz;    1448,92;   136 249;   66 992;   69 257
+15088;Sachsen-Anhalt;Landkreis;LK Saalekreis;    1433,91;   184 582;   91 361;   93 221
+15089;Sachsen-Anhalt;Landkreis;LK Salzlandkreis;    1427,33;   190 560;   93 148;   97 412
+15090;Sachsen-Anhalt;Landkreis;LK Stendal;    2423,42;   111 982;   55 278;   56 704
+15091;Sachsen-Anhalt;Landkreis;LK Wittenberg;    1930,48;   125 840;   61 933;   63 907
+16051;Thüringen;Kreisfreie Stadt;SK Erfurt;    269,91;   213 699;   103 920;   109 779
+16052;Thüringen;Kreisfreie Stadt;SK Gera;    152,18;   94 152;   45 517;   48 635
+16053;Thüringen;Kreisfreie Stadt;SK Jena;    114,77;   111 407;   55 665;   55 742
+16054;Thüringen;Kreisfreie Stadt;SK Suhl;    103,03;   34 835;   16 960;   17 875
+16055;Thüringen;Kreisfreie Stadt;SK Weimar;    84,48;   65 090;   31 655;   33 435
+16056;Thüringen;Kreisfreie Stadt;SK Eisenach;    104,17;   42 370;   20 874;   21 496
+16061;Thüringen;Landkreis;LK Eichsfeld;    943,07;   100 380;   50 364;   50 016
+16062;Thüringen;Landkreis;LK Nordhausen;    713,90;   83 822;   41 477;   42 345
+16063;Thüringen;Landkreis;LK Wartburgkreis;    1307,44;   123 025;   61 525;   61 500
+16064;Thüringen;Landkreis;LK Unstrut-Hainich-Kreis;    979,69;   102 912;   51 119;   51 793
+16065;Thüringen;Landkreis;LK Kyffhäuserkreis;    1037,91;   75 009;   37 274;   37 735
+16066;Thüringen;Landkreis;LK Schmalkalden-Meiningen;    1210,73;   122 347;   61 186;   61 161
+16067;Thüringen;Landkreis;LK Gotha;    936,08;   135 452;   67 468;   67 984
+16068;Thüringen;Landkreis;LK Sömmerda;    806,86;   69 655;   34 762;   34 893
+16069;Thüringen;Landkreis;LK Hildburghausen;    938,42;   63 553;   31 766;   31 787
+16070;Thüringen;Landkreis;LK Ilm-Kreis;    843,71;   108 742;   54 633;   54 109
+16071;Thüringen;Landkreis;LK Weimarer Land;    804,48;   81 947;   40 645;   41 302
+16072;Thüringen;Landkreis;LK Sonneberg;    433,61;   56 196;   27 673;   28 523
+16073;Thüringen;Landkreis;LK Saalfeld-Rudolstadt;    1036,03;   106 356;   52 388;   53 968
+16074;Thüringen;Landkreis;LK Saale-Holzland-Kreis;    815,24;   83 051;   41 360;   41 691
+16075;Thüringen;Landkreis;LK Saale-Orla-Kreis;    1151,30;   80 868;   40 119;   40 749
+16076;Thüringen;Landkreis;LK Greiz;    845,98;   98 159;   48 326;   49 833
+16077;Thüringen;Landkreis;LK Altenburger Land;    569,40;   90 118;   44 138;   45 980
