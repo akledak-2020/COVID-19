@@ -9,6 +9,8 @@ Konfiguration der Analyse über **config_covid-19.json**.
   git pull git+ssh://ti-inr@192.168.178.23/~/Python/COVID-19
 
 - from mac-mini2:  
-  git pull git+ssh://working@192.168.178.58/~/Python/COVID-19
+  git clone git+ssh://working@192.168.178.58/~/Python/COVID-19
+  git pull git+ssh://working@192.168.178.58/~/Python/COVID-19  
+  git push git+ssh://working@192.168.178.58/~/Python/COVID-19
  
   
