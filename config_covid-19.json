@@ -1,0 +1,9 @@
+{
+  "Bundesland": [],
+  "Landkreis":["SK Köln", "SK München"],
+  "ArtFall":"AnzahlFall",
+  "7Tage-je-100T": true,
+  "landkreise_info_file": "Landkreise 2019.csv",
+  "rki_file": "RKI_COVID19.csv",
+  "rki_file_url": "https://opendata.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0.csv"
+}

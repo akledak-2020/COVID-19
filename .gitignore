@@ -3,4 +3,4 @@
 **/.idea
 **/venv
 RKI_COVID19.csv
-config_covid-19.json
+#config_covid-19.json
