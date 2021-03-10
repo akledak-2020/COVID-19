@@ -97,7 +97,7 @@ if len(sys.argv)>1:
     param = sys.argv[1]
 else:
     param = ""
-if param!="no_figure":
+if param=="-plot":
     plt.plot(Cases)
     plt.title(config, fontsize=8)
     plt.ylabel(config['ArtFall'])
