@@ -93,7 +93,6 @@ print(Cases[-14:])  # last 14 days
 end_time = datetime.now()
 print("Runtime for analysis:", end_time - start_time)
 
-print(len(sys.argv))
 if len(sys.argv)>1:
     param = sys.argv[1]
 else:
