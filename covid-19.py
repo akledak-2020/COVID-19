@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -89,12 +90,19 @@ if config['7Tage-je-100T']:
 pd.options.display.float_format = '{:,.1f}'.format
 print(Cases[-14:])  # last 14 days
 
-plt.plot(Cases)
-plt.title(config, fontsize=8)
-plt.ylabel(config['ArtFall'])
-plt.grid()
-plt.legend(Cases.columns)
-plt.show()
-
 end_time = datetime.now()
 print("Runtime for analysis:", end_time - start_time)
+
+print(len(sys.argv))
+if len(sys.argv)>1:
+    param = sys.argv[1]
+else:
+    param = ""
+if param!="no_figure":
+    plt.plot(Cases)
+    plt.title(config, fontsize=8)
+    plt.ylabel(config['ArtFall'])
+    plt.grid()
+    plt.legend(Cases.columns)
+    plt.show()
+
