@@ -6,6 +6,7 @@ Konfiguration der Analyse über **config_covid-19.json**.
 
 ## Pull from remote computer
 - from x MacBook-Pro-DTAG:  
+  git clone git+ssh://ti-inr@192.168.178.23/~/Python/COVID-19  
   git pull git+ssh://ti-inr@192.168.178.23/~/Python/COVID-19
 
 - from mac-mini2:  
