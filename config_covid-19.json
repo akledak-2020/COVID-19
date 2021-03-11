@@ -1,5 +1,5 @@
 {
-  "Bundesland": [],
+  "Bundesland": ["Nordrhein-Westfalen"],
   "Landkreis":["SK Köln", "SK München"],
   "ArtFall":"AnzahlFall",
   "7Tage-je-100T": true,
