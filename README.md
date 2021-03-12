@@ -15,7 +15,7 @@ Analyse des zeitlichen Verlaufs der RKI Fallzahlen entsprechend der Reports, die
 
 ## Pull from remote computer
 
-- from x MacBook-Pro-DTAG:  
+- from MacBook-Pro-DTAG:  
   git clone git+ssh://ti-inr@192.168.178.23/~/Python/COVID-19  
   git pull git+ssh://ti-inr@192.168.178.23/~/Python/COVID-19
 
