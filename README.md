@@ -2,6 +2,14 @@
 
 Analyse des zeitlichen Verlaufs der RKI Fallzahlen entsprechend der Reports, die vom RKI erfasst und bereit gestellt werden.
 
+## Installation
+
+Download the python requirements using the following snippet:
+
+```
+pip3 install -r ./requirements.txt
+```
+
 ## Konfiguration der Analyse mit *config_covid-19.json*
 
 - "Bundesland": []
