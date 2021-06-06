@@ -89,15 +89,12 @@ if config['7Tage-je-100T']:
 # show results
 pd.options.display.float_format = '{:,.1f}'.format
 print(Cases[-14:])  # last 14 days
+print("Number of reports:", len(Reports))
 
 end_time = datetime.now()
 print("Runtime for analysis:", end_time - start_time)
 
-if len(sys.argv)>1:
-    param = sys.argv[1]
-else:
-    param = ""
-if param=="-plot":
+if "-plot" in sys.argv:
     plt.plot(Cases)
     plt.title(config, fontsize=8)
     plt.ylabel(config['ArtFall'])
