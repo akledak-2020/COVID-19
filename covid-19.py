@@ -9,7 +9,7 @@ from datetime import datetime
 
 
 def get_config(conf_file):
-    with open(conf_file) as f_in:
+    with open(conf_file, 'rb') as f_in:
         return json.load(f_in)
 
 
